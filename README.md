@@ -23,7 +23,7 @@ A modern, full-stack social networking feed application built with React, Expres
 
 ### 1. Clone the repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/VidyaCharan-79/22311A1235-IT.git
 cd <project-folder>
 ```
 
@@ -79,12 +79,5 @@ charanias/
 - You can deploy the backend and frontend separately (e.g., Vercel/Netlify for frontend, Render/Heroku for backend)
 - Make sure to update API URLs in `src/services/api.js` for production
 
-## 🙏 Credits
-- [React](https://react.dev/)
-- [Express](https://expressjs.com/)
-- [SQLite](https://www.sqlite.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-
----
 
 Enjoy your own social media platform! 🎉
